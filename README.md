@@ -7,3 +7,7 @@ Structure Tensor analysis involves calculating the local gradient of pixel inten
 
 
 Application of Structure Tensor analysis to microscopic images reveals distinct patterns in microglia cell distribution and morphology. Regions with aligned and coherent microglia cells exhibit prominent eigenvalues and clear orientation patterns, indicating organized cell arrangements. Conversely, regions with dispersed and randomly oriented microglia cells display lower eigenvalues and lack clear structural coherence. Furthermore, changes in microglia cell orientation and clustering patterns can be quantitatively assessed across different experimental conditions or disease states, providing valuable insights into microglial responses to various stimuli or pathological insults
+
+
+
+![Structutr-Tensor](https://github.com/Maya-Arteaga/Structure-Tensor/assets/70504322/6f382dad-99e8-42fa-bbe5-5d74a963a6f8)
