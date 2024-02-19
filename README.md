@@ -1,3 +1,5 @@
+                      Structure-Tensor Analysis
+
 Microglia, the resident immune cells of the central nervous system, play crucial roles in maintaining brain homeostasis and responding to injury or disease. Understanding the distribution and morphology of microglia cells in microscopic images is essential for unraveling their functional significance in various neurological conditions. Structure Tensor analysis is a powerful tool used to assess the orientation and coherence of local image structures, offering valuable insights into the organization and behavior of microglia cells.
 
 
